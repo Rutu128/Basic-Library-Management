@@ -4,7 +4,7 @@
 
 # First clone this Repository
 ```
-https://github.com/Rutu128/Library-Management.git
+https://github.com/Rutu128/Basic-Library-Management.git
 ```
 # Install dependencies
 ```
