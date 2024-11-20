@@ -1,22 +1,17 @@
 ﻿# Library-Management
 
-#For Run this Project
+ For Run this Project
 
-#First clone this Repository
+# First clone this Repository
 ```
-git clone https://github.com/Rutu128/Library-Managemen
-
+https://github.com/Rutu128/Library-Management.git
 ```
-#Install dependencies
-
+# Install dependencies
 ```
 npm install
-
 ```
-#Run Project
-
+# Run Project
 ```
 node index.js
-
 ```
  
