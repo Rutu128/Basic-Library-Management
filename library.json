@@ -1,0 +1,68 @@
+[
+  {
+    "title": "OOPs",
+    "author": "Rutu Bhimani",
+    "ISBN": "1234",
+    "isBorrowed": true
+  },
+  {
+    "title": "JavaScript Basics",
+    "author": "Ravi Sharma",
+    "ISBN": "5678",
+    "isBorrowed": false
+  },
+  {
+    "title": "Advanced JavaScript",
+    "author": "Priya Nair",
+    "ISBN": "9101",
+    "isBorrowed": false
+  },
+  {
+    "title": "Introduction to Node.js",
+    "author": "Amit Gupta",
+    "ISBN": "1123",
+    "isBorrowed": false
+  },
+  {
+    "title": "Mastering React",
+    "author": "Neha Patil",
+    "ISBN": "4456",
+    "isBorrowed": false
+  },
+  {
+    "title": "Python for Beginners",
+    "author": "Vikram Singh",
+    "ISBN": "7789",
+    "isBorrowed": false
+  },
+  {
+    "title": "Data Structures and Algorithms",
+    "author": "Anjali Verma",
+    "ISBN": "1011",
+    "isBorrowed": false
+  },
+  {
+    "title": "Database Management",
+    "author": "Rajesh Kulkarni",
+    "ISBN": "1213",
+    "isBorrowed": false
+  },
+  {
+    "title": "Machine Learning Basics",
+    "author": "Kavita Iyer",
+    "ISBN": "1415",
+    "isBorrowed": false
+  },
+  {
+    "title": "Cloud Computing Essentials",
+    "author": "Arjun Mehta",
+    "ISBN": "1617",
+    "isBorrowed": false
+  },
+  {
+    "title": "JavaScript Basics",
+    "author": "john doe",
+    "ISBN": "12345",
+    "isBorrowed": true
+  }
+]
